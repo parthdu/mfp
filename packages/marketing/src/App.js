@@ -15,6 +15,7 @@ export default () => {
             <Route path="/" component={Landing} />
           </Switch>
         </BrowserRouter>
-      </StylesProvider></div>
+      </StylesProvider>
+      </div>
   );
 };
